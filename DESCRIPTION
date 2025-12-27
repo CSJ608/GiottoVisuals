@@ -68,8 +68,8 @@ Suggests:
     knitr,
     rmarkdown
 Remotes:
-    drieslab/GiottoUtils,
-    drieslab/GiottoClass
+    CSJ608/GiottoUtils,
+    CSJ608/GiottoClass
 Config/testthat/edition: 3
 Collate: 
     'aux_defaults.R'
